@@ -36,6 +36,6 @@ Through this project, I strengthened my knowledge of:
 
 # Demonstration Screenshots
 - The console program was tested using various combinations of inputs to verify sorting correctness and input validation. Input error handling was also tested to ensure the program rejects invalid input and allow the user to re-enter the correct input.
-![Validation 1](output1.png)
-![Validation 2](output2.png)
-![Validation 3](output3.png)
+![Validation 1](Output1.png)
+![Validation 2](Output2.png)
+![Validation 3](Output3.png)
